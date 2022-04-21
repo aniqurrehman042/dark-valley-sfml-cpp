@@ -1,0 +1,5 @@
+# Intermediate files
+*.o
+
+# Build files
+*.exe
