@@ -1,0 +1,1 @@
+START out/debug/sfml-game
